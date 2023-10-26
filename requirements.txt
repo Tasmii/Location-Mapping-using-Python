@@ -1,0 +1,4 @@
+geopandas
+matplotlib
+requests
+#pip install -r requirements.txt or pip3 install install -r requirements.txt
